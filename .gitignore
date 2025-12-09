@@ -1,0 +1,15 @@
+# Git 忽略配置
+
+# 高敏感信息目录
+⚙️ 工具区/_private 🔒高敏感信息/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*~
+
+# 大型媒体文件（可选，取消注释启用）
+# 📅 人生经历/memories 📸回忆录/photos/
